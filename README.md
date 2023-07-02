@@ -4,4 +4,4 @@
 3== Confirma los cambios en el área de preparación con el comando git commit -m "Mensaje del commit" para guardarlos en la historia del repositorio.
 4== Sube tus cambios al repositorio remoto con el comando git push y url del repositorio.
 
-Hay que tener en cuenta el comando git status que nos permite ver el estado actual de tu repositorio local en relación al repositorio remoto.
+Hay que tener en cuenta el comando git status que nos permite ver el estado actual de tu repositorio local en relación al repositorio remoto..
